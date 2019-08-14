@@ -1,4 +1,3 @@
-# PPProject
 # Procedural Programming Project - An Dinosaur Pet Program
 
 A simple text-based virtual pet program built using Java.
