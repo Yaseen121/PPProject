@@ -4,7 +4,7 @@ A simple text-based virtual pet program built using Java.
 
 ### Video Demo and Features
 
-[![pp-project-overview](http://img.youtube.com/vi/0mgEkQaV/0.jpg)](https://www.youtube.com/watch?v=0mgEkQaV-6s&feature=youtu.be "Object Procedural Programming Project - A Dinosaur Pet Game")
+[![pp-project-overview](http://img.youtube.com/vi/0mgEkQaV-6s/0.jpg)](https://www.youtube.com/watch?v=0mgEkQaV-6s&feature=youtu.be "Object Procedural Programming Project - A Dinosaur Pet Game")
 >Clcik the image to see YouTube video of gameplay demo/walkthrough. 
 
 1. Text based virtual pet game.
