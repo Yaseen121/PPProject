@@ -1,6 +1,6 @@
 # Procedural Programming Project - A Dinosaur Pet Program
 
-A simple text-based virtual pet program built using Java.
+A simple text-based virtual dinosaur pet program built using Java.
 
 ### Video Demo and Features
 
